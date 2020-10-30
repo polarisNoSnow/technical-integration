@@ -23,3 +23,12 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+target/
+bin/
+.classpath
+.gitignore
+.project
+.settings
+*.log
+
